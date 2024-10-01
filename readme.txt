@@ -1,2 +1,1 @@
-hello
-next line
+changing contents to practice git rebase command
